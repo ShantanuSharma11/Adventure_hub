@@ -1,9 +1,14 @@
-![Screenshot (7)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/392f8ce6-ebe1-4769-9ea0-86277f325da0)
-![Screenshot (6)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/081311ed-fed8-46c7-adc2-8bd749010b9d)
-![Screenshot (5)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/bea175e3-0ab6-4208-b219-f9ffb83085db)
-![Screenshot (4)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/e3c04808-cf08-4c34-a546-82a632edd5d3)
-![Screenshot (3)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/578c471d-8fc9-4b97-8fb0-c6e79553915d)
 ![Screenshot (1)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/42330f6b-946e-4121-80b6-9da1699bf8ba)
+![Screenshot (2)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/578c471d-8fc9-4b97-8fb0-c6e79553915d)
+![Screenshot (3)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/e3c04808-cf08-4c34-a546-82a632edd5d3)
+![Screenshot (4)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/bea175e3-0ab6-4208-b219-f9ffb83085db)
+![Screenshot (5)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/081311ed-fed8-46c7-adc2-8bd749010b9d)
+![Screenshot (6)](https://github.com/ShantanuSharma11/Adventure_hub/assets/97371684/392f8ce6-ebe1-4769-9ea0-86277f325da0)
+
+
+
+
+
 Adventure Hub is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account.
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
